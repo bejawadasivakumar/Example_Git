@@ -1,2 +1,4 @@
 hello world !!!!
 world
+take input from the user
+and add the values to the variable
